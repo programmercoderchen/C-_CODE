@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\21212\Desktop\实验五和六\Project1\源.cpp(43,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\21212\Desktop\实验五和六\Project1\源.cpp(98,44): warning C4305: “参数”: 从“double”到“float”截断
+  Project1.vcxproj -> C:\Users\21212\Desktop\实验五和六\Debug\Project1.exe
