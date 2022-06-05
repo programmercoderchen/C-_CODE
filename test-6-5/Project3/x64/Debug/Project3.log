@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\21212\source\repos\Project3\Project3\源.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\21212\source\repos\Project3\Project3\源.cpp(166,10): warning C4101: “yue”: 未引用的局部变量
+C:\Users\21212\source\repos\Project3\Project3\源.cpp(223,10): warning C4101: “money”: 未引用的局部变量
+  Project3.vcxproj -> C:\Users\21212\source\repos\Project3\x64\Debug\Project3.exe
