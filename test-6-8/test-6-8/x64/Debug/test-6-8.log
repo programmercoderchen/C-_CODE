@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\编程上课资料\c++\Cadd-_CODE\test-6-8\test-6-8\源.cpp(55,5): error C2065: “vector”: 未声明的标识符
+D:\编程上课资料\c++\Cadd-_CODE\test-6-8\test-6-8\源.cpp(55,12): error C2065: “vector”: 未声明的标识符
+D:\编程上课资料\c++\Cadd-_CODE\test-6-8\test-6-8\源.cpp(55,19): error C2062: 意外的类型“int”
+D:\编程上课资料\c++\Cadd-_CODE\test-6-8\test-6-8\源.cpp(59,13): error C2065: “a”: 未声明的标识符
+D:\编程上课资料\c++\Cadd-_CODE\test-6-8\test-6-8\源.cpp(65,21): error C2065: “a”: 未声明的标识符
