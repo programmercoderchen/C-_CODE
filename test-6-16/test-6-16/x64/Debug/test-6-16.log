@@ -1,0 +1,20 @@
+﻿  源.cpp
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(54,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(60,35): warning C4101: “insertScoreNum”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(59,17): warning C4101: “maxScore”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(61,6): warning C4101: “order”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(60,51): warning C4101: “result”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(60,6): warning C4101: “searchScore”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(59,37): warning C4101: “searchArrayPosition”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(59,27): warning C4101: “minScore”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(60,59): warning C4101: “arrayPossition”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(57,6): warning C4101: “i”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(62,22): warning C4101: “medianScore”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(62,8): warning C4101: “averageScore”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(60,19): warning C4101: “appendScoreNum”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(260,6): warning C4101: “i”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(290,6): warning C4101: “i”: 未引用的局部变量
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(278): error C4700: 使用了未初始化的局部变量“median”
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(120): error C4700: 使用了未初始化的局部变量“averageScore”
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(291): error C4700: 使用了未初始化的局部变量“f_at”
+D:\编程上课资料\c++\Cadd-_CODE\test-6-16\test-6-16\源.cpp(307): error C4700: 使用了未初始化的局部变量“mid”
