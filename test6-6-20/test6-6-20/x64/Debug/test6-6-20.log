@@ -1,0 +1,15 @@
+﻿  源.cpp
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(230,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(230,16): warning C4183: “PetAnimals”: 缺少返回类型；假定为返回“int”的成员函数
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(233,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(242,2): warning C4183: “PetAnimals”: 缺少返回类型；假定为返回“int”的成员函数
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(540,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(591,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(594,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(597,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(600,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(603,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(606,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(609,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(612,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\编程上课资料\c++\Cadd-_CODE\test6-6-20\test6-6-20\源.cpp(575,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
