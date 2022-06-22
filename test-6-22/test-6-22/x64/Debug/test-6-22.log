@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\编程上课资料\c++\Cadd-_CODE\test-6-22\test-6-22\源.cpp(120,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test-6-22.vcxproj -> D:\编程上课资料\c++\Cadd-_CODE\test-6-22\x64\Debug\test-6-22.exe
